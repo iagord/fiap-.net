@@ -1,0 +1,11 @@
+C:\Users\heber\source\repos\CP1_DOTNET\CP1_DOTNET\bin\Debug\net7.0\CP1_DOTNET.deps.json
+C:\Users\heber\source\repos\CP1_DOTNET\CP1_DOTNET\bin\Debug\net7.0\CP1_DOTNET.dll
+C:\Users\heber\source\repos\CP1_DOTNET\CP1_DOTNET\bin\Debug\net7.0\CP1_DOTNET.pdb
+C:\Users\heber\source\repos\CP1_DOTNET\CP1_DOTNET\obj\Debug\net7.0\CP1_DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heber\source\repos\CP1_DOTNET\CP1_DOTNET\obj\Debug\net7.0\CP1_DOTNET.AssemblyInfoInputs.cache
+C:\Users\heber\source\repos\CP1_DOTNET\CP1_DOTNET\obj\Debug\net7.0\CP1_DOTNET.AssemblyInfo.cs
+C:\Users\heber\source\repos\CP1_DOTNET\CP1_DOTNET\obj\Debug\net7.0\CP1_DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\heber\source\repos\CP1_DOTNET\CP1_DOTNET\obj\Debug\net7.0\CP1_DOTNET.dll
+C:\Users\heber\source\repos\CP1_DOTNET\CP1_DOTNET\obj\Debug\net7.0\refint\CP1_DOTNET.dll
+C:\Users\heber\source\repos\CP1_DOTNET\CP1_DOTNET\obj\Debug\net7.0\CP1_DOTNET.pdb
+C:\Users\heber\source\repos\CP1_DOTNET\CP1_DOTNET\obj\Debug\net7.0\ref\CP1_DOTNET.dll
